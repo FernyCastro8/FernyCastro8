@@ -4,10 +4,10 @@ Greetings 👋
 -  I'm Fern :)
 - 👨‍💻  I'm a Junior Full stack Web Developer.
 - 🌐  Specialized in the MERN Stack.
-- ⚡ Fun fact: ... When not coding, my probably lifting weights 🏋️‍♂️
+- ⚡ Fun fact: ... When not coding, i'm probably lifting weights 🏋️‍♂️
   
 - Learn a little bit a me and my projects on [my site](https://fernycastro.com/)
-- 🗒  Click the link to my [resume](https://drive.google.com/file/d/1TvcItM03LsRcGmlPEmLP-zvN7xeZzIuT/view?usp=drive_link) for quick access
+- 🗒  Click the link to view [resume](https://drive.google.com/file/d/1TvcItM03LsRcGmlPEmLP-zvN7xeZzIuT/view?usp=drive_link)
 
 
 
