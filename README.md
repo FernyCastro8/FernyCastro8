@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Greetings 👋
 -  I'm Fern :)
 - 👨‍💻  I'm a Junior Full stack Web Developer.
