@@ -2,7 +2,7 @@ Greetings 👋
 -  I'm Fern :)
 - 👨‍💻  I'm a Junior Full stack Web Developer.
 - 🌐  Specialized in the MERN Stack.
-- 💻  Javascript
+- 💻  coding language: Javascript
 - ⚡   Fun fact: ... When not coding, i'm probably lifting weights 🏋️‍♂️
   
 - Learn a little bit a me and my projects on [my site](https://fernycastro.com/)
