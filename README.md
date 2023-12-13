@@ -6,7 +6,7 @@ Greetings 👋
 - ⚡   Fun fact: ... When not coding, i'm probably lifting weights 🏋️‍♂️
   
 - Learn a little bit a me and my projects on [my website](https://fernycastro.com/)
-- 🗒  Click the link to view [resume](https://drive.google.com/file/d/1TvcItM03LsRcGmlPEmLP-zvN7xeZzIuT/view?usp=drive_link) <=
+- 🗒   View my [resume](https://drive.google.com/file/d/1TvcItM03LsRcGmlPEmLP-zvN7xeZzIuT/view?usp=drive_link)
   
 
 
